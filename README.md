@@ -1,3 +1,1 @@
-# test
-edit no 1
-edit no 2
+Gsoc proposal for Rule Based Integration in sympy 
